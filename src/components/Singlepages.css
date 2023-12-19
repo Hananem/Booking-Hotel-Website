@@ -1,0 +1,43 @@
+.content{
+    color:var(--text-color);
+    margin-bottom:2rem;
+}
+
+.dest-container{
+    position:relative;
+    max-width:80%;
+    margin: 3rem auto;
+}
+
+
+.back-btn{
+    position:absolute;
+    right:1rem;
+    top:1rem;
+}
+
+.dest-container img{
+    width: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

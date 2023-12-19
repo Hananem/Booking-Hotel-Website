@@ -1,0 +1,31 @@
+
+.head{
+    position:relative;
+    width: 100%;
+    height: 160px;
+}
+
+.head img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   z-index:-1;
+
+}
+
+.head .container{
+    position: absolute;
+    height:100%;
+    display:flex;
+    align-items: center;
+}
+
+.head-title{
+    color:#fff;
+    z-index:2;
+    padding: 0 6rem;
+    text-transform: capitalize;
+}
+
+
+
